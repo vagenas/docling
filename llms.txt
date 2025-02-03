@@ -1,0 +1,58 @@
+# Docs
+
+- [Docling](https://ds4sd.github.io/docling/): Docling
+- [Faq](https://ds4sd.github.io/docling/faq/): FAQ
+- [Installation](https://ds4sd.github.io/docling/installation/): Installation
+- [Supported_Formats](https://ds4sd.github.io/docling/supported_formats/): Supported formats
+- [Usage](https://ds4sd.github.io/docling/usage/): Usage
+- [V2](https://ds4sd.github.io/docling/v2/): Docling v2
+- [Concepts](https://ds4sd.github.io/docling/concepts/): Concepts
+- [Architecture](https://ds4sd.github.io/docling/concepts/architecture/): Architecture
+- [Chunking](https://ds4sd.github.io/docling/concepts/chunking/): Chunking
+- [Docling_Document](https://ds4sd.github.io/docling/concepts/docling_document/): Docling Document
+- [Examples](https://ds4sd.github.io/docling/examples/): Examples
+- [Backend_Xml_Rag](https://ds4sd.github.io/docling/examples/backend_xml_rag/): Conversion of custom XML
+- [Batch_Convert](https://ds4sd.github.io/docling/examples/batch_convert/): Batch conversion
+- [Custom_Convert](https://ds4sd.github.io/docling/examples/custom_convert/): Custom conversion
+- [Develop_Formula_Understanding](https://ds4sd.github.io/docling/examples/develop_formula_understanding/): Develop formula understanding
+- [Develop_Picture_Enrichment](https://ds4sd.github.io/docling/examples/develop_picture_enrichment/): Figure enrichment
+- [Export_Figures](https://ds4sd.github.io/docling/examples/export_figures/): Figure export
+- [Export_Multimodal](https://ds4sd.github.io/docling/examples/export_multimodal/): Multimodal export
+- [Export_Tables](https://ds4sd.github.io/docling/examples/export_tables/): Table export
+- [Full_Page_Ocr](https://ds4sd.github.io/docling/examples/full_page_ocr/): Force full page OCR
+- [Hybrid_Chunking](https://ds4sd.github.io/docling/examples/hybrid_chunking/): Hybrid chunking
+- [Inspect_Picture_Content](https://ds4sd.github.io/docling/examples/inspect_picture_content/): Inspect picture content
+- [Minimal](https://ds4sd.github.io/docling/examples/minimal/): Simple conversion
+- [Rag_Azuresearch](https://ds4sd.github.io/docling/examples/rag_azuresearch/): RAG with Azure AI Search
+- [Rag_Haystack](https://ds4sd.github.io/docling/examples/rag_haystack/): RAG with Haystack
+- [Rag_Langchain](https://ds4sd.github.io/docling/examples/rag_langchain/): RAG with LangChain
+- [Rag_Llamaindex](https://ds4sd.github.io/docling/examples/rag_llamaindex/): RAG with LlamaIndex
+- [Rag_Weaviate](https://ds4sd.github.io/docling/examples/rag_weaviate/): RAG with Weaviate
+- [Retrieval_Qdrant](https://ds4sd.github.io/docling/examples/retrieval_qdrant/): Retrieval with Qdrant
+- [Run_Md](https://ds4sd.github.io/docling/examples/run_md/): Run md
+- [Run_With_Accelerator](https://ds4sd.github.io/docling/examples/run_with_accelerator/): Accelerator options
+- [Run_With_Formats](https://ds4sd.github.io/docling/examples/run_with_formats/): Multi-format conversion
+- [Tesseract_Lang_Detection](https://ds4sd.github.io/docling/examples/tesseract_lang_detection/): Automatic OCR language detection with tesseract
+- [Translate](https://ds4sd.github.io/docling/examples/translate/): Simple translation
+- [Integrations](https://ds4sd.github.io/docling/integrations/): Integrations
+- [Bee](https://ds4sd.github.io/docling/integrations/bee/): Bee Agent Framework
+- [Cloudera](https://ds4sd.github.io/docling/integrations/cloudera/): Cloudera
+- [Crewai](https://ds4sd.github.io/docling/integrations/crewai/): Crew AI
+- [Data_Prep_Kit](https://ds4sd.github.io/docling/integrations/data_prep_kit/): Data Prep Kit
+- [Docetl](https://ds4sd.github.io/docling/integrations/docetl/): DocETL
+- [Haystack](https://ds4sd.github.io/docling/integrations/haystack/): Haystack
+- [Instructlab](https://ds4sd.github.io/docling/integrations/instructlab/): InstructLab
+- [Kotaemon](https://ds4sd.github.io/docling/integrations/kotaemon/): Kotaemon
+- [Langchain](https://ds4sd.github.io/docling/integrations/langchain/): LangChain
+- [Llamaindex](https://ds4sd.github.io/docling/integrations/llamaindex/): LlamaIndex
+- [Nvidia](https://ds4sd.github.io/docling/integrations/nvidia/): NVIDIA
+- [Opencontracts](https://ds4sd.github.io/docling/integrations/opencontracts/): OpenContracts
+- [Prodigy](https://ds4sd.github.io/docling/integrations/prodigy/): Prodigy
+- [Rhel_Ai](https://ds4sd.github.io/docling/integrations/rhel_ai/): RHEL AI
+- [Spacy](https://ds4sd.github.io/docling/integrations/spacy/): spaCy
+- [Txtai](https://ds4sd.github.io/docling/integrations/txtai/): txtai
+- [Vectara](https://ds4sd.github.io/docling/integrations/vectara/): Vectara
+- [Cli](https://ds4sd.github.io/docling/reference/cli/): CLI reference
+- [Docling_Document](https://ds4sd.github.io/docling/reference/docling_document/): Docling Document
+- [Document_Converter](https://ds4sd.github.io/docling/reference/document_converter/): Document converter
+- [Pipeline_Options](https://ds4sd.github.io/docling/reference/pipeline_options/): Pipeline options
